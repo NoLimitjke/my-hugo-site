@@ -4,7 +4,7 @@ date: 2025-08-05T12:01:57.900Z
 draft: false
 image: https://i.pinimg.com/1200x/49/cf/ee/49cfee98463977d1b7a88dfe7453a980.jpg
 ---
-
+![Вагон-дом](https://i.pinimg.com/1200x/49/cf/ee/49cfee98463977d1b7a88dfe7453a980.jpg)
 
 - - -
 
