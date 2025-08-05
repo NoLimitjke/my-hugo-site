@@ -1,6 +1,6 @@
 backend:
-  name: identity
-  # branch: main
+  name: git-gateway
+  branch: main
 media_folder: 'static/images' # Папка, куда будут загружаться изображения
 public_folder: '/images' # Путь к изображениям в браузере
 
