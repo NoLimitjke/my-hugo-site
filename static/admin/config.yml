@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: identity
   branch: main # Убедитесь, что это ваша основная ветка
 media_folder: 'static/images'
 public_folder: '/images'
