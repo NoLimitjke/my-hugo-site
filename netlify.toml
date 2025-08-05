@@ -1,0 +1,7 @@
+[build]
+  command = "hugo --gc --minify"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.148.2" # Укажите здесь версию, на которой вы работали
+  HUGO_ENABLE_GITINFO = "true"
