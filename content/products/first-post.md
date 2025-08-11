@@ -2,7 +2,9 @@
 title: "Вагон-дом: Уютный и мобильный дом для комфортной жизни"
 date: 2025-08-05T12:01:57.900Z
 draft: false
+price: 2 000 000 Руб
 image: https://i.pinimg.com/1200x/49/cf/ee/49cfee98463977d1b7a88dfe7453a980.jpg
+description: П﻿ривет мир!
 ---
 ![Вагон-дом](https://i.pinimg.com/1200x/49/cf/ee/49cfee98463977d1b7a88dfe7453a980.jpg)
 
