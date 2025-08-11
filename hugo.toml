@@ -1,20 +1,43 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Progress Group'
-theme = 'ananke'
+theme = "ananke"
 
-[menu]
-  [[menu.main]]
+
+[taxonomies]
+  category = "categories"
+
+[[menu.main]]
     name = "Главная"
     url = "/"
     weight = 1
-
-  [[menu.main]]
-    name = "Обо мне"
-    url = "/about/"
-    weight = 2
-
-
+[[menu.main]]
+  name = "Каталог"
+  url = "/products/"
+  weight = 2
+[[menu.main]]
+  name = "О компании"
+  url = "/about/"
+  weight = 3
+[[menu.main]]
+  name = "Контакты"
+  url = "/contacts/"
+  weight = 4
+[[menu.main]]
+  name = "Новости"
+  url = "/news/"
+  weight = 4
 
 [params]
-  description = "Компания по производству вагон-домов"
+  copyright = "ООО «Прогресс-Торг»"
+  contact_email = "info@vagon-torg.ru"
+  phone_number = "+7(909)874-21-80"
+  address = "Москва, ул. Примерная, д. 10"
+  social_links = [
+    { name = "Twitter", icon = "fa-twitter", url = "https://twitter.com" },
+    { name = "Facebook", icon = "fa-facebook", url = "https://facebook.com" },
+    { name = "Instagram", icon = "fa-instagram", url = "https://instagram.com" }
+  ]
+
+[markup.goldmark.renderer]
+  unsafe = true
