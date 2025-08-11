@@ -5,6 +5,8 @@ draft: false
 price: 2 000 000 Руб
 image: https://i.pinimg.com/1200x/49/cf/ee/49cfee98463977d1b7a88dfe7453a980.jpg
 description: П﻿ривет мир!
+categories:
+  - Бытовки
 ---
 ![Вагон-дом](https://i.pinimg.com/1200x/49/cf/ee/49cfee98463977d1b7a88dfe7453a980.jpg)
 
