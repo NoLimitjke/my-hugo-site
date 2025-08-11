@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Progress Group</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Progress Group</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Aug 2025 09:20:51 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Tue, 05 Aug 2025 09:20:51 +0200</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://i.pinimg.com/1200x/49/cf/ee/49cfee98463977d1b7a88dfe7453a980.jpg&#34; alt=&#34;targets&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Привет! Это мой первый опубликованный пост.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/posts/second-post/</link>
+      <pubDate>Tue, 05 Aug 2025 09:20:51 +0200</pubDate>
+      <guid>http://localhost:1313/posts/second-post/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://i.pinimg.com/1200x/01/93/99/01939973bb0e91535a0bbd65c180cadb.jpg&#34; alt=&#34;targets&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Привет! Это мой второй опубликованный пост.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Third Post</title>
+      <link>http://localhost:1313/posts/third-post/</link>
+      <pubDate>Tue, 05 Aug 2025 09:20:51 +0200</pubDate>
+      <guid>http://localhost:1313/posts/third-post/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://i.pinimg.com/1200x/9a/65/65/9a65659b1a9ac9c804cde9283ca3dfc2.jpg&#34; alt=&#34;targets&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Привет! Это мой третий опубликованный пост.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
